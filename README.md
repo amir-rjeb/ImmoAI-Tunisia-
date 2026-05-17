@@ -60,7 +60,7 @@ tunisia-real-estate/
 │   ├── r2_modeles.png
 │   └── rmse_modeles.png
 │
-├── app.R                                 # Code R complet (EDA + ML + Shiny)
+├── tunisia_real_estate.R                                 # Code R complet (EDA + ML + Shiny)
 ├── rapport_immobilier_tunisie.Rmd        # Rapport R Markdown
 └── README.md
 ```
