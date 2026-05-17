@@ -152,4 +152,3 @@ Le dashboard s'ouvre automatiquement dans le navigateur avec 4 onglets :
 ## 📄 Licence
 
 Ce projet est réalisé dans un cadre académique (PFA 2025–2026).  
-Le dataset source est sous licence **CC BY 4.0**.
