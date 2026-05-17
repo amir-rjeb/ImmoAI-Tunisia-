@@ -1,7 +1,7 @@
-# 🏘️ Tunisia Real Estate — Analyse & Prédiction des Prix Immobiliers
+# 🏘️ ImmoAI Tunisia   — Analyse & Prédiction des Prix Immobiliers
 
 > **PFA 2025–2026 · TEK-UP University**  
-> Méthodes Statistiques & Machine Learning Appliqué  
+> Méthodes Statistiques  
 > Encadrant : Pr. Ahmed DHOUIBI
 
 ---
