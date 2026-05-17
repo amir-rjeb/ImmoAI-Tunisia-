@@ -144,8 +144,8 @@ Le dashboard s'ouvre automatiquement dans le navigateur avec 4 onglets :
 
 | Nom | Filière |
 |---|---|
-| **Amir Rjeb** | Data Engineering & Cloud — TEK-UP University |
-| **Abed Rahim Kaouech** | Data Engineering & Cloud — TEK-UP University |
+| **Amir Rjeb** | Data Engineering & AI — TEK-UP University |
+| **Abed Rahim Kaouech** | Data Engineering & AI — TEK-UP University |
 
 ---
 
